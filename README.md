@@ -54,6 +54,11 @@ You need to have python 3.x installed on you computer and also libraries like
 1) matplotlib: For displaying graphs
 2) csv, sys and os: Which are standard libraries and are included with python
 
+<h2>OUTPUT</h2>
+The data which is inputed is represented as:\
+<img width="1160" height="598" alt="image" src="https://github.com/user-attachments/assets/2b946de8-29c9-43f3-a777-c73b7dac69ca" />
+
+
 
 
 
